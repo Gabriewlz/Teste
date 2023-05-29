@@ -1,13 +1,43 @@
-# Ordenacao-de-vetores
-## Trabalho para estudos das funcionalidades do git e do Docker.
-#### Nesse trabalho fizemos um programa que cria 5 vetores de tamanhos alearios entre 10000 a 1000000 e com numeros aleatrios de 20 a 2000000 fora de sequencia. Apos isso o programa ordena os cinco vetores usando 3 tipos de ordenação e mostra os tempos utilizados em cada . O programa tambem pergunta ao usuario um numero e usa 2 metodo de busca para acha-lo e marca o tempo utilizado.
-## Como rodar
-* Baixe a release
-* Baixe o docker desktop no site :https://www.docker.com/products/docker-desktop/
-* No terminal abra seu bash na pasta com o Dockerfile e o arquivo main.c
-* Execute o comando ```docker build -t nome_da_imagem .``` para buildar sua imagem a partir do Dockerfile
-* Após terminar de executar o primeiro comando, execute o ```docker run -it nome_da_imagem``` para subir o container
-## Integrantes 
+# Tarefa 07 - APP
+
+## 📋 Introdução (Tema)
+#### Na atual dinâmica do mercado de trabalho, as empresas de diversos setores têm enfrentado um desafio significativo: a disparidade entre as expectativas e necessidades da organização e o conhecimento técnico e comportamental dos profissionais disponíveis. Essa diferença muitas vezes dificulta o recrutamento de talentos qualificados, levando as empresas a buscar alternativas para suprir essa lacuna e garantir o desenvolvimento contínuo de sua equipe.
+#### Diante desse cenário, algumas empresas estão adotando uma abordagem inovadora, assumindo a dianteira e propondo-se a desenvolver as competências técnicas e comportamentais dos indivíduos antes mesmo de contratá-los. Essa nova estratégia consiste em oferecer programas de treinamento abrangentes, nos quais um grande número de pessoas é capacitado, permitindo às empresas identificar e selecionar os profissionais mais destacados e alinhados com suas necessidades.
+
+## 📌 Objetivo
+#### Este projeto tem como objetivo utilizar os diversos temas aprendidos em aula, para então, desenvolver um aplicativo para administrar e acompanhar todos os alunos e empresas parceiras.
+
+## 🛠️ Linguagens utilizadas
+* [C++](https://devdocs.io/cpp/) - Linguagem utilizada
+* [Teste](youtube.com) - Framework utilizado
+
+
+## 🔧 Instalação
+Passo a passo de como se instala o APP
+```
+- start
+```
+```
+- npm install
+```
+
+
+
+## 🚀 Começando
+* Faça o download do git
+* Faça o download e instalação do MySQL Workbench 8.0 (https://dev.mysql.com/downloads/mysql/8.0.html)
+* 
+* 
+* 
+*
+
+## ⚙️ Funcionamento
+#### Explicar como executar e como funciona o APP
+
+
+
+
+## 🗿 Integrantes 
 ### Fernando Bordin Correa 
 #### Ra:20098174 
 ### Plinio Zanchetta de Souza Fernandes Filho
