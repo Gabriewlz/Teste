@@ -50,7 +50,7 @@ Passo a passo de como se instala o APP
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://github.com/Ayushparikh-code"><img src="https://github.com/Gabriewlz/Teste/assets/127240119/aebc114a-4c89-4560-af36-de32c3bb1eac" width=100px height=100px /></a></br> <h4 style="color:red;">Fernando Bordin Correa</h4><br>Ra:20098174
+<td align="center"><a href="https://github.com/Ayushparikh-code"><img src="/Teste/assets/profile_xF3rd.png" width=100px height=100px /></a></br> <h4 style="color:red;">Fernando Bordin Correa</h4><br>Ra:20098174
 </a></td>
 
 <td align="center" ><a href="https://github.com/chicken-biryani"><img src="https://github.com/Gabriewlz/Teste/assets/127240119/4f96d543-d59c-480b-97c3-9f760c77614b" width=100px height=100px /></a></br> <h4 style="color:red;">Plinio Zanchetta de Souza Fernandes Filho</h4><br>Ra:22023003
