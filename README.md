@@ -50,22 +50,22 @@ Passo a passo de como se instala o APP
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://github.com/Ayushparikh-code"><img src="/Teste/assets/profile_xF3rd.png" width=100px height=100px /></a></br> <h4 style="color:red;">Fernando Bordin Correa</h4><br>Ra:20098174
+<td align="center"><a href="https://github.com/xF3rd"><img src="/Teste/profile_xF3rd.png" width=100px height=100px /></a></br> <h4 style="color:red;">Fernando Bordin Correa</h4><br>Ra:20098174
 </a></td>
 
-<td align="center" ><a href="https://github.com/chicken-biryani"><img src="https://github.com/Gabriewlz/Teste/assets/127240119/4f96d543-d59c-480b-97c3-9f760c77614b" width=100px height=100px /></a></br> <h4 style="color:red;">Plinio Zanchetta de Souza Fernandes Filho</h4><br>Ra:22023003
+<td align="center" ><a href="https://github.com/Zanchetta08"><img src="/Teste/assets/profile_Zanchetta08" width=100px height=100px /></a></br> <h4 style="color:red;">Plinio Zanchetta de Souza Fernandes Filho</h4><br>Ra:22023003
 </a></td>
 
-<td align="center"><a href="https://github.com/harshita2216"><img src="https://github.com/Gabriewlz/Teste/assets/127240119/70b5e313-fef5-4b37-bae7-5191d6c14a4d" width=100px height=100px /></a></br> <h4 style="color:red;">Nathan Rocha Gardin</h4><br>Ra:21008193
+<td align="center"><a href="https://github.com/YshalltearY"><img src="/Teste/assets/profile_YshalltearY" width=100px height=100px /></a></br> <h4 style="color:red;">Nathan Rocha Gardin</h4><br>Ra:21008193
 </a></td>
 
-<td align="center"><a href="https://github.com/harshita2216"><img src="https://github.com/Gabriewlz/Teste/assets/127240119/1b88ffba-9171-42bd-94dc-84cfc9b23375" width=100px height=100px /></a></br> <h4 style="color:red;">Gabriel Teixeira Gabetta</h4><br>Ra:21003071
+<td align="center"><a href="https://github.com/Gabriewlz"><img src="/Teste/assets/profile_Gabriewlz" width=100px height=100px /></a></br> <h4 style="color:red;">Gabriel Teixeira Gabetta</h4><br>Ra:21003071
 </a></td>
 
-<td align="center"><a href="https://github.com/harshita2216"><img src="https://github.com/Gabriewlz/Teste/assets/127240119/1da265b7-a587-4b88-abb5-952e7a2feb0a" width=100px height=100px /></a></br> <h4 style="color:red;">Thiago Meindl Leonardo</h4><br>Ra:21003771
+<td align="center"><a href="https://github.com/MeindlT"><img src="/Teste/assets/profile_MeindlT" width=100px height=100px /></a></br> <h4 style="color:red;">Thiago Meindl Leonardo</h4><br>Ra:21003771
 </a></td>
 
-<td align="center"><a href="https://github.com/harshita2216"><img src="https://github.com/Gabriewlz/Teste/assets/127240119/5ef86198-05d0-4901-a4d6-3f0f91582ded" width=100px height=100px /></a></br> <h4 style="color:red;">Rafael Fatol Lopes</h4><br>Ra:21013400
+<td align="center"><a href="https://github.com"><img src="/Teste/assets/profile_Default" width=100px height=100px /></a></br> <h4 style="color:red;">Rafael Fatol Lopes</h4><br>Ra:21013400
 </a></td>
 </tr>
 </table>
