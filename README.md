@@ -19,6 +19,15 @@
 
 
 </br></br>
+## Frontend
+Falar sobre o Frontend
+
+
+</br></br>
+## Backend
+Falar sobre o Backend
+
+</br></br>
 ## 🔧 Instalação
 Passo a passo de como se instala o APP
 ```
@@ -50,22 +59,22 @@ Passo a passo de como se instala o APP
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://github.com/xF3rd"><img src="/Teste/profile_xF3rd.png" width=100px height=100px /></a></br> <h4 style="color:red;">Fernando Bordin Correa</h4><br>Ra:20098174
+<td align="center"><a href="https://github.com/xF3rd"><img src="https://github.com/Gabriewlz/Teste/blob/main/profile_xF3rd.png" width=100px height=100px /></a></br> <h4 style="color:red;">Fernando Bordin Correa</h4><br>Ra:20098174
 </a></td>
 
-<td align="center" ><a href="https://github.com/Zanchetta08"><img src="/Teste/assets/profile_Zanchetta08" width=100px height=100px /></a></br> <h4 style="color:red;">Plinio Zanchetta de Souza Fernandes Filho</h4><br>Ra:22023003
+<td align="center" ><a href="https://github.com/Zanchetta08"><img src="https://github.com/Gabriewlz/Teste/blob/main/profile_Zanchetta08.png" width=100px height=100px /></a></br> <h4 style="color:red;">Plinio Zanchetta de Souza Fernandes Filho</h4><br>Ra:22023003
 </a></td>
 
-<td align="center"><a href="https://github.com/YshalltearY"><img src="/Teste/assets/profile_YshalltearY" width=100px height=100px /></a></br> <h4 style="color:red;">Nathan Rocha Gardin</h4><br>Ra:21008193
+<td align="center"><a href="https://github.com/YshalltearY"><img src="https://github.com/Gabriewlz/Teste/blob/main/profile_YshalltearY.jpeg" width=100px height=100px /></a></br> <h4 style="color:red;">Nathan Rocha Gardin</h4><br>Ra:21008193
 </a></td>
 
-<td align="center"><a href="https://github.com/Gabriewlz"><img src="/Teste/assets/profile_Gabriewlz" width=100px height=100px /></a></br> <h4 style="color:red;">Gabriel Teixeira Gabetta</h4><br>Ra:21003071
+<td align="center"><a href="https://github.com/Gabriewlz"><img src="https://github.com/Gabriewlz/Teste/blob/main/profile_Gabriewlz.png" width=100px height=100px /></a></br> <h4 style="color:red;">Gabriel Teixeira Gabetta</h4><br>Ra:21003071
 </a></td>
 
-<td align="center"><a href="https://github.com/MeindlT"><img src="/Teste/assets/profile_MeindlT" width=100px height=100px /></a></br> <h4 style="color:red;">Thiago Meindl Leonardo</h4><br>Ra:21003771
+<td align="center"><a href="https://github.com/MeindlT"><img src="https://github.com/Gabriewlz/Teste/blob/main/profile_MeindlT.png" width=100px height=100px /></a></br> <h4 style="color:red;">Thiago Meindl Leonardo</h4><br>Ra:21003771
 </a></td>
 
-<td align="center"><a href="https://github.com"><img src="/Teste/assets/profile_Default" width=100px height=100px /></a></br> <h4 style="color:red;">Rafael Fatol Lopes</h4><br>Ra:21013400
+<td align="center"><a href="https://github.com"><img src="https://github.com/Gabriewlz/Teste/blob/main/profile_Default.jpg" width=100px height=100px /></a></br> <h4 style="color:red;">Rafael Fatol Lopes</h4><br>Ra:21013400
 </a></td>
 </tr>
 </table>
