@@ -22,17 +22,25 @@
 </br></br>
 ## Frontend
 #### Frontend refere-se à parte do software que interage diretamente com o usuário. É a interface com a qual as pessoas interagem visualmente e por meio da qual podem acessar as funcionalidades do sistema. O desenvolvimento frontend envolve a criação de elementos visuais, como layouts, botões, formulários e outros componentes de uma aplicação. As tecnologias comumente usadas no frontend incluem HTML (HyperText Markup Language) para estruturar o conteúdo, CSS (Cascading Style Sheets) para estilizar a aparência e JavaScript para adicionar interatividade e comportamento aos elementos.
-
-[Saiba mais](https://github.com/Gabriewlz/Teste/blob/main/Frontend.md) - Saiba mais sobre o frontend!
+</br>
 
 <p align="center">
   <img src="/gif1_coding.gif" alt="animated" width="350"/>
 </p>
+</br>
+
+[Saiba mais](https://github.com/Gabriewlz/Teste/blob/main/Frontend.md) - Saiba mais sobre o frontend!
+
 
 </br></br>
 ## Backend
 #### Backend, por outro lado, refere-se à parte do software que fica "nos bastidores" e é responsável pelo processamento dos dados e pela lógica de negócios. O desenvolvimento backend envolve a criação de servidores, bancos de dados e sistemas que suportam as funcionalidades do sistema. Ele lida com a manipulação de dados, autenticação, autorização, lógica de negócios e outras operações. As tecnologias comumente usadas no backend incluem linguagens de programação como Java, Python, PHP ou JavaScript (usando frameworks como Node.js), além de bancos de dados como MySQL, PostgreSQL ou MongoDB.
+</br>
 
+<p align="center">
+  <img src="/gif3_code.gif" alt="animated" width="350"/>
+</p>
+</br>
 
 [Saiba Mais](https://github.com/Gabriewlz/Teste/blob/main/Backend.md) - Saiba mais sobre o backend!
 
