@@ -7,6 +7,7 @@
 #### Diante desse cenário, algumas empresas estão adotando uma abordagem inovadora, assumindo a dianteira e propondo-se a desenvolver as competências técnicas e comportamentais dos indivíduos antes mesmo de contratá-los. Essa nova estratégia consiste em oferecer programas de treinamento abrangentes, nos quais um grande número de pessoas é capacitado, permitindo às empresas identificar e selecionar os profissionais mais destacados e alinhados com suas necessidades.
 
 
+
 </br></br>
 ## 📌 Objetivo
 #### Este projeto tem como objetivo utilizar os diversos temas aprendidos em aula, para então, desenvolver um aplicativo para administrar e acompanhar todos os alunos e empresas parceiras.
@@ -20,16 +21,22 @@
 
 </br></br>
 ## Frontend
-Falar sobre o Frontend
+#### Frontend refere-se à parte do software que interage diretamente com o usuário. É a interface com a qual as pessoas interagem visualmente e por meio da qual podem acessar as funcionalidades do sistema. O desenvolvimento frontend envolve a criação de elementos visuais, como layouts, botões, formulários e outros componentes de uma aplicação. As tecnologias comumente usadas no frontend incluem HTML (HyperText Markup Language) para estruturar o conteúdo, CSS (Cascading Style Sheets) para estilizar a aparência e JavaScript para adicionar interatividade e comportamento aos elementos.
 
-![Saiba mais](https://github.com/Gabriewlz/Teste/blob/main/Frontend.md) - Saiba mais sobre o front-end!
+[Saiba mais](https://github.com/Gabriewlz/Teste/blob/main/Frontend.md) - Saiba mais sobre o frontend!
+
+<p align="center">
+  <img src="/gif1_coding.gif" alt="animated" width="350"/>
+</p>
 
 </br></br>
 ## Backend
-Falar sobre o Backend
+#### Backend, por outro lado, refere-se à parte do software que fica "nos bastidores" e é responsável pelo processamento dos dados e pela lógica de negócios. O desenvolvimento backend envolve a criação de servidores, bancos de dados e sistemas que suportam as funcionalidades do sistema. Ele lida com a manipulação de dados, autenticação, autorização, lógica de negócios e outras operações. As tecnologias comumente usadas no backend incluem linguagens de programação como Java, Python, PHP ou JavaScript (usando frameworks como Node.js), além de bancos de dados como MySQL, PostgreSQL ou MongoDB.
 
 
-https://github.com/Gabriewlz/Teste/blob/main/Backend.md
+[Saiba Mais](https://github.com/Gabriewlz/Teste/blob/main/Backend.md) - Saiba mais sobre o backend!
+
+
 
 </br></br>
 ## 🔧 Instalação
@@ -57,6 +64,10 @@ Passo a passo de como se instala o APP
 #### Explicar como executar e como funciona o APP
 
 
+
+<p align="center">
+  <img src="/gif2_backend.gif" alt="animated" width="350"/>
+</p>
 
 </br></br>
 ## 🗿 Integrantes 
