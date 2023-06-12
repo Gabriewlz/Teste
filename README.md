@@ -18,7 +18,7 @@
 * [Php](https://www.php.net/docs.php) - Linguagem utilizada
 * [Laravel](https://laravel.com/docs/10.x/readme) - Framework utilizado
 * [Electron](https://www.electronjs.org/pt/docs/latest) - Framework utilizado
-* [MySQK](https://dev.mysql.com/doc/) - Banco de Dados utilizado
+* [MySQL](https://dev.mysql.com/doc/) - Banco de Dados utilizado
 * [Docker](https://docs.docker.com/) - Docker
 * [HTML](https://devdocs.io/html/) - HTML
 * [Css](https://devdocs.io/css/) - CSS
@@ -68,10 +68,17 @@ Passo a passo de como se instala o APP
 ## 🚀 Começando
 * Faça o download do git
 * Faça o download e instalação do MySQL Workbench 8.0 (https://dev.mysql.com/downloads/mysql/8.0.html)
-* 
-* 
-* 
-*
+* Instalação electron
+
+```
+npm install electron
+```
+
+* Inicialização do programa
+
+```
+npm run electron
+```
 
 
 </br></br>
