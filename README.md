@@ -55,56 +55,64 @@
 
 </br></br>
 ## 🔧 Instalação
-Passo a passo sobre a instalação
+
+#### Passo 1
+* Passo 1
 ```
 php artisan migrate
 ```
+* Passo 2
 ```
 php artisan db:seed
 ```
+* Passo 3
 ```
 git init
 ```
+* Passo 4
 ```
 git clone https://github.com/Zanchetta08/Electron.git
 ```
+* Passo 5
 ```
 npm install electron
 ```
+* Passo 6
 ```
 npm run electron
 ```
+* Passo 7
 ```
 vendor/bin/phpunit
 ```
-Crie o arquivo .env
+
+
+</br></br>
+#### Passo 2
+* Crie o arquivo .env
 ```
 cp .env.example .env
 ```
-
-
-
-
-Atualize as variáveis de ambiente do arquivo .env
+* Atualize as variáveis de ambiente do arquivo .env
 ```
 APP_NAME-Laravel
 APP_URL-http://localhost:8080
 
 DB_PASSWORD-root
 ```
-Suba os containers do projeto
+* Suba os containers do projeto
 ```
 docker compose up -d
 ```
-Acessar o container
+* Acessar o container
 ```
 docker compose exec app bash
 ```
-Instalar as dependências do projeto
+* Instalar as dependências do projeto
 ```
 composer install
 ```
-Gerar a key do projeto Laravel
+* Gerar a key do projeto Laravel
 ```
 php artisan key:generate
 ```
