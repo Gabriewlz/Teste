@@ -55,12 +55,58 @@
 
 </br></br>
 ## 🔧 Instalação
-Passo a passo de como se instala o APP
+Passo a passo sobre a instalação
 ```
-- start
+php artisan migrate
 ```
 ```
-- npm install
+php artisan db:seed
+```
+```
+git init
+```
+```
+git clone https://github.com/Zanchetta08/Electron.git
+```
+```
+npm install electron
+```
+```
+npm run electron
+```
+```
+vendor/bin/phpunit
+```
+Crie o arquivo .env
+```
+cp .env.example .env
+```
+
+
+
+
+Atualize as variáveis de ambiente do arquivo .env
+```
+APP_NAME-Laravel
+APP_URL-http://localhost:8080
+
+DB_PASSWORD-root
+```
+Suba os containers do projeto
+```
+docker compose up -d
+```
+Acessar o container
+```
+docker compose exec app bash
+```
+Instalar as dependências do projeto
+```
+composer install
+```
+Gerar a key do projeto Laravel
+```
+php artisan key:generate
 ```
 
 
@@ -83,8 +129,10 @@ npm run electron
 
 </br></br>
 ## ⚙️ Funcionamento
-#### Explicar como executar e como funciona o APP
-
+#### 
+* O aplicativo se inicia com o login/cadastro
+* No menu inicial
+####
 
 
 <p align="center">
