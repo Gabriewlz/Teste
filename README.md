@@ -145,9 +145,18 @@ npm run electron
   * Criação de vagas
 
 
-<p align="center">
-  <img src="/gif2_backend.gif" alt="animated" width="350"/>
+#### Menu do programa
+ <p align="center">
+  <img src="/image.png"  width="700"/>
 </p>
+</br>
+
+
+#### Imagem mostrando a criação de treinamentos
+ <p align="center">
+  <img src="/image2.png"  width="700"/>
+</p>
+</br>
 
 </br></br>
 ## 🗿 Integrantes 
