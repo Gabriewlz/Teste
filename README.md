@@ -84,11 +84,6 @@ composer install
 ```
 php artisan key:generate
 ```
-
-
-
-</br></br>
-## 🚀 Começando
 * Comando usado para executar as migrações do banco de dados.
 ```
 php artisan migrate
@@ -103,6 +98,12 @@ php artisan db:seed
 vendor/bin/phpunit
 ```
 
+
+
+</br></br>
+## 🚀 Começando
+
+#### Passo 2
 * **Utilizando um novo terminal**: use o código abaixo para começar
 ```
 git init
