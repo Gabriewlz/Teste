@@ -36,7 +36,7 @@
 </p>
 </br>
 
-[Saiba mais](https://github.com/Gabriewlz/Teste/blob/main/Frontend.md) - Saiba mais sobre o frontend!
+[Saiba mais](https://css-tricks.com/front-end-documentation-style-guides-and-the-rise-of-mdx/) - Saiba mais sobre o frontend!
 
 
 </br></br>
@@ -49,7 +49,7 @@
 </p>
 </br>
 
-[Saiba Mais](https://github.com/Gabriewlz/Teste/blob/main/Backend.md) - Saiba mais sobre o backend!
+[Saiba Mais](https://docs.backend.ai/en/latest/) - Saiba mais sobre o backend!
 
 
 
