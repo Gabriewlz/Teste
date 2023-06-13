@@ -134,10 +134,14 @@ npm run electron
 
 </br></br>
 ## ⚙️ Funcionamento
-#### 
+
 * O aplicativo se inicia com o login/cadastro
-* No menu inicial
-####
+* No menu inicial existem as seguintes opções disponíveis:
+  * Dashboard
+  * Treinamentos disponíveis
+  * Criação de treinamentos
+  * Vagas
+  * Criação de vagas
 
 
 <p align="center">
