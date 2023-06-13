@@ -57,38 +57,6 @@
 ## 🔧 Instalação
 
 #### Passo 1
-* Passo 1
-```
-php artisan migrate
-```
-* Passo 2
-```
-php artisan db:seed
-```
-* Passo 3
-```
-git init
-```
-* Passo 4
-```
-git clone https://github.com/Zanchetta08/Electron.git
-```
-* Passo 5
-```
-npm install electron
-```
-* Passo 6
-```
-npm run electron
-```
-* Passo 7
-```
-vendor/bin/phpunit
-```
-
-
-</br></br>
-#### Passo 2
 * Crie o arquivo .env
 ```
 cp .env.example .env
@@ -116,6 +84,41 @@ composer install
 ```
 php artisan key:generate
 ```
+
+
+</br></br>
+#### Passo 2
+* Comando usado para executar as migrações do banco de dados.
+```
+php artisan migrate
+```
+* Execução da alimentação (seeding) do banco de dados. (Lembre-se de configurar adequadamente os dados de conexão com o banco de dados no arquivo '.env' do seu projeto Laravel antes de executar o comando 'php artisan db:seed'.)
+```
+php artisan db:seed
+```
+
+* Caso queira usar o teste unitário rodar o código abaixo
+```
+vendor/bin/phpunit
+```
+
+* **Utilizando um novo terminal**: use o código abaixo para começar
+```
+git init
+```
+* Clone o componente do repositório complementar
+```
+git clone https://github.com/Zanchetta08/Electron.git
+```
+* Instalação electron
+```
+npm install electron
+```
+* Rodar o electron
+```
+npm run electron
+```
+* Executar o framework (Certifique-se de ter instalado o PHPUnit como uma dependência em seu projeto usando o Composer.)
 
 
 </br></br>
