@@ -86,8 +86,9 @@ php artisan key:generate
 ```
 
 
+
 </br></br>
-#### Passo 2
+## 🚀 Começando
 * Comando usado para executar as migrações do banco de dados.
 ```
 php artisan migrate
@@ -119,13 +120,6 @@ npm install electron
 npm run electron
 ```
 * Executar o framework (Certifique-se de ter instalado o PHPUnit como uma dependência em seu projeto usando o Composer.)
-
-
-</br></br>
-## 🚀 Começando
-* Faça o download do git
-* Faça o download e instalação do MySQL Workbench 8.0 (https://dev.mysql.com/downloads/mysql/8.0.html)
-* Instalação electron
 
 ```
 npm install electron
